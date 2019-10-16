@@ -1,0 +1,9 @@
+g++ -Wall -O3  -o victbench source/victbench.cc
+g++ -Wall -O3  -o pruebas/euler source/euler.cc
+g++ -Wall -O3  -o pruebas/pi source/pi.cc
+g++ -Wall -O3  -o pruebas/primos source/primos.cc
+g++ -Wall -O3  -o pruebas/quicksort source/quicksort.cc
+g++ -Wall -O3  -o pruebas/factor source/factor.cc
+g++ -Wall -O3  -o pruebas/disco source/disco.cc
+g++ -Wall -O3  -o pruebas/ludesc source/ludesc.cc
+

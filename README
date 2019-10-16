@@ -1,0 +1,46 @@
+
+
+------------------------------------------------------
+   
+   VictBench, The Benchmark for the rest of us
+   
+------------------------------------------------------
+
+Para mayor información acerca de VictBench visite 
+http://software.victormatematica.cl y lea el Manual de VictBench.
+
+
+1.- Instrucciones de Compilación
+
+    Una vez extraido, proceda a apuntar la dirección de su terminal a la 
+carpeta victbench_0.02/ . Una vez ahi, ejecute el siguiente comando:
+
+# ./compilar 
+
+2.- Instrucciones de Ejecución
+
+    Una vez compilado, dentro de la misma carpeta, ejecute el comando: 
+# ./victbench 
+
+
+3.- Contacto
+
+    Sirvase contactarse con los autores de VictBench al correo 
+software@victormatematica.cl. 
+
+4.- Aspectos Legales
+
+    VictBench es una creación de Victorelical Software Inc., una división 
+de la Victormatemática. Este trabajo se distribuye con licencia Creative 
+Commons Attribution-NonCommercial-ShareAlike 2.5. Para más información 
+visite http://creativecommons.org/licenses/by-nc-sa/2.5/ . 
+
+
+
+
+
+
+
+
+
+

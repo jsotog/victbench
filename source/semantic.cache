@@ -1,0 +1,15 @@
+;; Object source/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "source/"
+  :tables (list 
+   (semanticdb-table "Makefile"
+    :major-mode 'makefile-mode
+    :tags '(("CXX" variable (:default-value ("g++")) nil [1 9]) ("CXXFLAGS" variable (:default-value ("-Wall" "-O3")) nil [10 29]) ("BINS" variable (:default-value ("victbench" "ludesc" "pi" "primos" "disco" "factor" "euler" "quicksort")) nil [30 93]) ("all" function (:arguments ("$(BINS).cc")) nil [93 195]) ("clean" function nil nil [190 212]))
+    :file "Makefile"
+    :pointmax 212
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )
